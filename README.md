@@ -18,7 +18,7 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © 2023 - hl2guide_
+_AdGuard-Home-Whitelist © 2023 - AlexBartles_
 
 ## Recent News 📰
 
@@ -74,3 +74,4 @@ I will update this repo infrequently and sporadically.
 ## Usage 💚
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
+_@dontstealourhardworkbyalexbartles@AlexBartles_
